@@ -122,7 +122,7 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-tomcat-request-header-filter</id>
+            <id>bintray-lonelyplanet</id>
             <url>https://api.bintray.com/maven/lonelyplanet/maven/tomcat-request-header-filter/;publish=1</url>
         </repository>
     </distributionManagement>

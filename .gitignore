@@ -8,6 +8,3 @@ target/
 # Maven release
 pom.xml.releaseBackup
 release.properties
-
-# Credentials
-settings.xml
